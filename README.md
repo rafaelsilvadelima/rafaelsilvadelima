@@ -1,4 +1,4 @@
-<div align="center"> <img src="imagem/logo.png" alt="Foto de Perfil"  height="100em" ></div>
+<div align="center"> <img src="imagem/logo.png" alt="Foto de Perfil"  height="80em" ></div>
 
 <div>
   
