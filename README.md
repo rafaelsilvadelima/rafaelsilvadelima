@@ -1,4 +1,4 @@
-<div align="center"> <img src="imagem/logo.png" alt="Foto de Perfil"  height="80em" ></div>
+<div align="center"> <img src="/perfiloval.png" alt="Foto de Perfil"  height="200em" ></div>
 
 <div>
   
@@ -8,7 +8,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante de Java Full Stack na Soulcode Academy e busco aprender tudo que eu posso desse mundo maravilhoso das codificações
+    Sou estudante de Java Full Stack na Soulcode Academy e busco aprender tudo que eu posso sobre o mundo maravilhoso das codificações
   </p>
    
 </div>
