@@ -1,4 +1,4 @@
-<div align="center"> <img src="/perfil_code.png" alt="Foto de Perfil"  height="200em" ></div>
+<div align="center"> <img src="/banner git.PNG" alt="Foto de Perfil"  height="300em" ></div>
 
 <div>
   
