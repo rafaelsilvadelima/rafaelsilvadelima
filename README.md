@@ -1,6 +1,7 @@
 <div align="center"> <img src="/banner git.PNG" alt="Foto de Perfil"  height="300em" ></div>
+<br>
 
-<div>
+<!--<div>
   
   <h1 align="center">
     Olá Mundo! Eu sou o 
@@ -11,7 +12,7 @@
     Estou estudando Java Full Stack na Soulcode Academy, buscando me profissionalizar na área.
   </p>
    
-</div>
+</div>-->
 
 <div align="center">
   <a href="https://github.com/rafaelsilvadelima/rafaelsilvadelima/">
