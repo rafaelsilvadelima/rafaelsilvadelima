@@ -33,12 +33,3 @@
   <!--<img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
   <!--<img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> -->
 </div><br>
-
-<div align="center">
-
-  ![Snake animation](https://github.com/rafaelsilvadelima/RAfaBUGENTO/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
